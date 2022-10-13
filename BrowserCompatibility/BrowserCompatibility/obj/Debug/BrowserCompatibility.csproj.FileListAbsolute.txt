@@ -1,0 +1,4 @@
+E:\Rohit\ASP.NET\BrowserCompatibility\BrowserCompatibility\bin\BrowserCompatibility.dll
+E:\Rohit\ASP.NET\BrowserCompatibility\BrowserCompatibility\bin\BrowserCompatibility.pdb
+E:\Rohit\ASP.NET\BrowserCompatibility\BrowserCompatibility\obj\Debug\BrowserCompatibility.dll
+E:\Rohit\ASP.NET\BrowserCompatibility\BrowserCompatibility\obj\Debug\BrowserCompatibility.pdb
